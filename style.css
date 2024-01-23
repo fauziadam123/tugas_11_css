@@ -1,0 +1,6 @@
+p{column-count: 3; text-align: justify; column-fill: balance; column-rule:double;}
+header,ul,a{column-count:4 ; background: black;
+  color: white; margin: 0 auto; height: 40px ; padding:0 10px 0px 10px;
+
+ font-family: times new romans; list-style: none; text-decoration: none;}
+footer{text-align: center; background: black; color: white;}
